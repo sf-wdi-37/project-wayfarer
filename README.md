@@ -49,12 +49,12 @@ After you have completed your project, **deploy to heroku** to get practice gett
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
 
 
-#### TEAM 1: TODO
+#### TEAMS
 
 
 ## Presentation
 
-Each group will present their project on **DATE** starting at **TIME** for 10 minutes.
+Each group will present their project on Friday, May 12th starting at 1:30 PM for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
@@ -77,21 +77,21 @@ You will be evaluated on the following measures:
   - planning to avoid excessive merge conflicts
   - deliberate approach - routeside-in, logical progress from skateboard to car
   - the code is your original code
-1. Execution
+2. Execution
   - to what degree does your app fulfill the user stories?
   - code is clean
   - follows good naming conventions
   - code is free of obvious errors and bugs
   - code demonstrates good problem solving
   - code is DRY
-1. Technical requirements
+3. Technical requirements
   - users are authenticated
   - full CRUD for cities
   - custom HTML, CSS, and JavaScript (using the asset pipeline)
   - users are authorized
   - deployed to heroku
   - commenting (optional)
-1. Creativity
+4. Creativity / User Experience
   - polished appearance
   - personalized spin, not just a template
  a travel community, code-named **Project Wayfarer** for now, for users to share tips (AKA posts) about their favorite locations around the world.
