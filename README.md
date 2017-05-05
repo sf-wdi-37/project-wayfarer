@@ -2,7 +2,7 @@
 
 ## Brief
 
-We have been commissioned to build a travel community, code-named **Project Wayfarer** for now, for users to share tips (AKA posts) about their favorite locations around the world.
+We have been commissioned to build a travel community, code-named **Project Wayfarer** for now, for users to blog about trips and share  their favorite locations around the world.
 
 ## Client Contract
 
@@ -19,11 +19,11 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
 
-During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
+During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks.
 
 Commit changes at least once for each user story. Put effort into your **design**. Use a CSS framework (e.g. Bootstrap or Materialize), partials, and some custom CSS or Sass/Less.
 
-Work as **[git collaborators](./git-collaboration-workflow.md), build on feature branches, and submit pull requests for approval and merging**.
+Work as **[git collaborators](./git-collaboration-workflow.md), build on feature branches, and submit pull requests for review and merging**.
 
 After you have completed your project, **deploy to heroku** to get practice getting the app online. The earlier you resolve deployment, the easier it will be to fix bugs.
 
@@ -42,7 +42,7 @@ After you have completed your project, **deploy to heroku** to get practice gett
 
 2. **What will the UX/UI flow be?** Hammer out any areas of ambiguity in the wireframes
 
-3. **Which models do you need to implement?** Create an ERD for the client to reference.
+3. **Which model(s) do you need to implement?** Create an ERD for the client to reference.
 
 4. **What are the major milestones or components that you need to complete?** How can these be turned into tasks that group members can complete in pairs? Where do these milestones overlap and how will those related tasks be managed?
 
@@ -63,7 +63,7 @@ Each member of your group should speak for equal parts during your presentation 
 * Tour (demo) of your app, ideally deployed on heroku.
 * How did your group approach the requirements? (mention anything unique or creative your group chose to do)
 * What was easier than you thought? What was more challenging?
-* What is a lesson you will carry forward to working on Project 2?
+* What is a lesson you will carry forward to working on future projects?
 * Shout outs for fellow students!
 
 ## Evaluation
@@ -75,24 +75,19 @@ You will be evaluated on the following measures:
   - cooperative group work including majority of pair programing
   - effective use of branches
   - planning to avoid excessive merge conflicts
-  - deliberate approach - routeside-in, logical progress from skateboard to car
+  - deliberate approach, logical progress from skateboard to car
   - the code is your original code
 2. Execution
   - to what degree does your app fulfill the user stories?
   - code is clean
   - follows good naming conventions
   - code is free of obvious errors and bugs
-  - code demonstrates good problem solving
+  - team demonstrates good problem solving
   - code is DRY
 3. Technical requirements
-  - users are authenticated
-  - full CRUD for cities
-  - custom HTML, CSS, and JavaScript (using the asset pipeline)
-  - users are authorized
+  - meets base specifications for all required sprints
   - deployed to heroku
-  - commenting (optional)
 4. Creativity / User Experience
   - polished appearance
   - personalized spin, not just a template
- a travel community, code-named **Project Wayfarer** for now, for users to share tips (AKA posts) about their favorite locations around the world.
-
+  - attention paid to user experience
