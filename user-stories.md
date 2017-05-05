@@ -20,7 +20,7 @@
 5. Create a new post for San Francisco.
 6. Click "Edit" on ANY individual post, and be shown the edit form.
 7. Click "delete" on ANY individual post, then:
-  * see a confirmation dialogue that says "Are you sure you want to delete <title>?" with the title of the post?
+  * see a confirmation dialogue that says "Are you sure you want to delete <title>?" with the title of the post.
   * If the user confirms, delete the post.
 
 ### Bonuses
