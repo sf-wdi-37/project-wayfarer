@@ -49,9 +49,6 @@ After you have completed your project, **deploy to heroku** to get practice gett
 5. **What milestones are you and your group members interested in working on?** How can you effectively delegate the work into pairs so that each group member is interested, challenged, and productive?
 
 
-#### TEAMS
-
-
 ## Presentation
 
 Each group will present their project on Friday, May 12th starting at 1:30 PM for 10 minutes.
